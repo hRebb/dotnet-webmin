@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ljG8RO8xDs7gPbP6M+6L0lkFv8JsRkExLQv6cakyRQX6uaPlAOW1DEiwQdYXds6t5fOYkf4Bw9HosuOmVHw4vQ==",
+  "dgSpecHash": "PLnw92+dHonrh0XwdgyQN3Bm3MrtNeiSJrBgLhBVUThm44CJBfu+uMUeRmXwK2Jgg3P6oaRpbZFv/sgphTXHJw==",
   "success": true,
   "projectFilePath": "/workspaces/dotnet-webmin/PizzaStore/PizzaStore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore/6.1.4/swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.4/swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.4/swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.4/swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
   "logs": []
 }
