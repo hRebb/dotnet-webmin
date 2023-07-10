@@ -22,7 +22,7 @@ public class PizzaDB
      new Pizza{ Id=3, Name="The Noring, Pizza shaped like a Viking helmet, where's the mead"} 
    };
 
-   public static List<Pizza> GetPizza()
+   public static List<Pizza> GetPizzas()
    {
     return _pizzas;
    }
